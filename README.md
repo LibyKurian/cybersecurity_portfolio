@@ -12,7 +12,7 @@ Welcome to my cybersecurity portfolio! Here, I showcase my learnings, course inf
 
 ---
 <details>
-<summary> 🎯 What I've Learned </summary>
+<summary> ⏬ 🎯 What I've Learned </summary>
 
 Through the **Certified Ethical Hacker (CEH)** program by EC-Council, I have gained hands-on experience in ethical hacking, cybersecurity principles, tools, and methodologies, including:
 
@@ -56,7 +56,7 @@ Through the **Certified Ethical Hacker (CEH)** program by EC-Council, I have gai
 </details>
 
 <details>
-<summary> 🏆 About the Certified Ethical Hacker (CEH) by EC-Council </summary>
+<summary> ⏬ 🏆 About the Certified Ethical Hacker (CEH) by EC-Council </summary>
 
 The **Certified Ethical Hacker (CEH)** program by **EC-Council** is a globally recognized certification designed to teach ethical hacking and penetration testing methodologies. This program equips individuals with the skills required to assess the security posture of networks and systems by exploiting vulnerabilities and testing defenses.
 
@@ -99,7 +99,7 @@ This program includes **200+ hours of practical, hands-on instruction**, providi
 ---
 
 <details>
-  <summary>🎯 What I've Learned</summary>
+  <summary> ⏬ 🎯 What I've Learned</summary>
 
 Through this professional certification program, I have gained hands-on experience in cybersecurity principles, tools, and methodologies, including:
 
@@ -124,7 +124,7 @@ Through this professional certification program, I have gained hands-on experien
 
 </details>
 <details>
-<summary>🏆 About the Google Cybersecurity Certificate  </summary>
+<summary> ⏬ 🏆 About the Google Cybersecurity Certificate  </summary>
 
 This is an **8-course series** designed by Google to prepare individuals for entry-level cybersecurity roles such as **Cybersecurity Analyst** and **Security Operations Center (SOC) Analyst**.  
 

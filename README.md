@@ -4,9 +4,9 @@
 Welcome to my cybersecurity portfolio! Here, I showcase my learnings, course info and certification in the field of cybersecurity. This repository includes projects, certifications, and resources that highlight my expertise and learning.
 
 ---
-## **[Certified Ethical Hacker (CEH)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)**
+## **[Certified Ethical Hacker (CEH) Master](https://www.eccouncil.org/train-certify/ceh-master/)**
   
-![Certification Image](./general/cert2.png)  
+![Certification Image](./general/cert3.png)  
 
 - **[Verify via Aspen](https://aspen.eccouncil.org/Verify)**  
 
@@ -46,48 +46,71 @@ Through the **Certified Ethical Hacker (CEH)** program by EC-Council, I have gai
 - Conducting social engineering attacks (SET, phishing)
 - Creating fake websites and emails to trick users into revealing sensitive information
 
+✅ **Session Hijacking**
+- Exploiting insecure session management to gain unauthorized access
+- Session fixation and token manipulation techniques
+- Defensive strategies to secure web sessions and prevent hijacking
+
 ✅ **Evading IDS, Firewalls & Honeypots**
 - Techniques for bypassing intrusion detection/prevention systems (IDS/IPS)
 - Using tools and techniques to avoid detection by security systems
 
+✅ **Wireless Hacking**
+- Identifying and attacking weak Wi-Fi encryption (WEP, WPA, WPA2)
+- Capturing and cracking wireless network traffic using tools like Aircrack-ng
+- Rogue access points and Evil Twin attacks
+
 ✅ **Cloud Computing Security**
 - Assessing security risks in cloud-based environments
 - Understanding security protocols for cloud computing platforms (AWS, Azure, Google Cloud)
+
+✅ **IoT and OT Security**
+- Understanding vulnerabilities in IoT and Operational Technology (OT) environments
+- Securing smart devices and industrial control systems (ICS)
+- Exploiting and mitigating weaknesses in IoT networks
 </details>
 
 <details>
-<summary> ⏬ 🏆 About the Certified Ethical Hacker (CEH) by EC-Council </summary>
+<summary> ⏬ 🏆 About the Certified Ethical Hacker (CEH) Master by EC-Council </summary>
 
-The **Certified Ethical Hacker (CEH)** program by **EC-Council** is a globally recognized certification designed to teach ethical hacking and penetration testing methodologies. This program equips individuals with the skills required to assess the security posture of networks and systems by exploiting vulnerabilities and testing defenses.
+The **Certified Ethical Hacker (CEH) Master** by **EC-Council** is an advanced-level certification designed for cybersecurity professionals who want to demonstrate mastery in ethical hacking and penetration testing. It builds upon the foundational CEH certification by requiring candidates to complete a practical exam, proving their ability to perform real-world cyberattacks and defenses in a controlled environment.
+
+### What Makes CEH Master Different?
+Unlike CEH, which focuses on theoretical knowledge, CEH Master validates hands-on skills through:  
+✔️ CEH Knowledge Exam (Multiple Choice) – Tests theoretical understanding of hacking techniques  
+✔️ CEH Practical Exam (6-Hour Challenge) – Requires solving real-world security challenges  
 
 ### You'll Learn:
-- How to ethically hack systems and networks by simulating real-world attacks
-- Techniques for identifying vulnerabilities and securing systems
-- How to use industry-standard tools and methodologies to assess security
+- Advanced hacking techniques and penetration testing methodologies
+- Hands-on experience with real-world cyberattacks and exploitations
+- How to bypass security defenses and strengthen security postures
+- Red teaming and post-exploitation tactics used by ethical hackers
 
 ### Syllabus & Topics Covered:
-1. **Introduction to Ethical Hacking**
-2. **Footprinting and Reconnaissance**
-3. **Scanning Networks**
-4. **Enumeration**
-5. **System Hacking**
-6. **Malware Threats**
-7. **Sniffing**
-8. **Social Engineering**
-9. **Denial-of-Service (DoS) Attacks**
-10. **Session Hijacking**
-11. **Hacking Web Servers**
-12. **Hacking Web Applications**
-13. **SQL Injection**
-14. **Wireless Networks**
-15. **Evading IDS, Firewalls, Honeypots**
-16. **Cloud Computing Security**
-17. **Cryptography**
+1. **Advanced Reconnaissance & Footprinting**
+2. **Deep Network Scanning & Enumeration**
+3. **Exploiting Vulnerabilities & Privilege Escalation**
+4. **Malware Development & Reverse Engineering Basics**
+5. **Packet Sniffing, Spoofing & MITM Attacks**
+6. **Advanced Social Engineering Attacks**
+7. **Denial-of-Service (DoS) & Distributed DoS (DDoS) Attacks**
+8. **Session Hijacking & Web App Exploits**
+9. **Database Attacks (SQL Injection, NoSQL Exploits)**
+10. **Wireless Network Attacks & Exploit Development**
+11. **Evading IDS, Firewalls & Security Controls**
+12. **Cloud Security Exploitation & Hardening**
+13. **Cryptography Attacks & Steganography**
+14. **Red Teaming & Active Directory Attacks**
+15. **IoT & OT Security Vulnerabilities**
 
 ---
 
-This program includes **200+ hours of practical, hands-on instruction**, providing real-world hacking scenarios to develop the skills needed to become an ethical hacker.
+This program provides real-world hacking labs, 200+ hands-on exercises, and a final practical challenge that mimics actual cyber threats faced by enterprises.  
+
+🏆 Passing the CEH Practical Exam earns you the prestigious CEH Master credential!
 </details>
+
+📌 Note: If you want to check out my detailed notes for your preparation, [here’s the link](https://github.com/LibyKurian/ethicalhacking-h.git)
 
 ---
 ## **[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)**
@@ -146,6 +169,8 @@ This is an **8-course series** designed by Google to prepare individuals for ent
 ---
 This program includes **170+ hours of hands-on instruction**, covering real-world cybersecurity scenarios.
 </details>
+
+📌 Note: If you're looking for notes from this certification course, check out the rest of the pages in this same repository!
 
 ---
 

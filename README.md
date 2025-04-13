@@ -113,6 +113,63 @@ This program provides real-world hacking labs, 200+ hands-on exercises, and a fi
 📌 Note: If you want to check out my detailed notes for your preparation, [here’s the link](https://github.com/LibyKurian/ethicalhacking-h.git)
 
 ---
+## **[Splunk Core Certified User](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html)**
+  
+![Certification Image](./general/cert4.png)  
+ 
+- **[Verify via credly](https://www.credly.com/badges/3b710c09-1298-4d48-a788-25b33ec2271a)**
+---
+
+<details>
+  <summary> ⏬ 🎯 What I've Learned</summary>
+
+Through the **Splunk Core Certified User** program, I have gained foundational knowledge and hands-on experience in navigating and utilizing Splunk for data analysis and security monitoring:
+
+✅ **Core Splunk Knowledge**  
+- Understanding Splunk's architecture and key components  
+- Navigating the Splunk interface and using basic search commands  
+
+✅ **Search & Reporting**  
+- Performing searches using SPL (Search Processing Language)  
+- Filtering and transforming data for insights  
+- Creating and scheduling reports for recurring insights  
+
+✅ **Dashboards & Visualizations**  
+- Designing and editing dashboards  
+- Using panels and visualizations for real-time data monitoring  
+- Modifying chart types and panel positioning  
+
+✅ **Alerts & Lookups**  
+- Setting up alerts based on search conditions  
+- Using lookups to enrich search results with external data  
+- Managing permissions for shared reports and dashboards  
+
+</details>
+<details>
+<summary> ⏬ 🏆 About the Splunk Core Certified User Certification </summary>
+
+The **Splunk Core Certified User** certification validates a user’s ability to search, use fields, create alerts, and build reports and dashboards in **Splunk Enterprise** or **Splunk Cloud** platforms.  
+
+### You'll Learn:
+- How to search and filter data using SPL  
+- Create and schedule alerts based on specified conditions  
+- Build dashboards and use lookups to enrich data  
+- Understand the fundamentals of Splunk's data ingestion and analysis  
+
+### Key Areas Covered:
+1. **Splunk Interface Navigation**  
+2. **Search Language (SPL) Basics**  
+3. **Fields and Lookups**  
+4. **Reports and Alerts**  
+5. **Dashboards and Visualizations**  
+
+---
+This entry-level certification is ideal for anyone looking to begin their journey with Splunk and gain a solid foundation in data analysis and security monitoring.
+</details>
+
+📌 Note: If you want to check out my detailed notes for your preparation, [here’s the link](https://github.com/LibyKurian/Splunkcoreuser-h.git)
+
+---
 ## **[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)**
   
 ![Certification Image](./general/cert.png)  
